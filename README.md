@@ -1,0 +1,2 @@
+# CXFSpringWebserviceDemo
+CXF和Spring整合发布WebService服务的demo
